@@ -1,1 +1,1 @@
-PI de desenvolvimento front-end de um site de pizzaria, realizado no 2º semestre de 2022.
+PI de desenvolvimento front-end de um site de pizzaria, realizado no 2º semestre de 2022. O objetivo era desenvolver um site do 0 para uma pizzaria utilizando HTML/CSS e outras ferramentas que auxiliassem no desenvolvimento do projeto.
